@@ -1,8 +1,8 @@
-site_name: My Docs
+site_name: ReadTheDocs Playground
 
 theme:
   name: readthedocs
-  custom_dir: theme
+  custom_dir: custom_theme/
 
 nav:
     - 'index.md'
