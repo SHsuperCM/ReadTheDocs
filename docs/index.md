@@ -16,3 +16,10 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+		
+## TESTS
+	
+<video width="320" height="240" controls>
+	<source src="assets/mzEePT3aaw.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
